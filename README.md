@@ -12,6 +12,8 @@ Senior Full-Stack Engineer with 10+ years of experience building production web 
 ### 📌 Featured projects
 
 - **[rag-document-qa](https://github.com/venkata-kopparthi/rag-document-qa)**: document Q&A with Next.js, Azure OpenAI and pgvector, with streaming answers and source citations
+- **[ridership-dashboard](https://github.com/venkata-kopparthi/ridership-dashboard)**: bike-share analytics dashboard with a FastAPI + SQLite API and a React/TypeScript front end
+- **[shortlink-api](https://github.com/venkata-kopparthi/shortlink-api)**: link shortener REST API with click analytics, built with Node.js, Express and TypeScript
 - **[taskflow](https://github.com/venkata-kopparthi/taskflow)**: full-stack task manager with React, Express, MongoDB and JWT auth
 
 ### 🔗 Find me
