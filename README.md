@@ -15,6 +15,8 @@ Senior Full-Stack Engineer with 10+ years of experience building production web 
 - **[ridership-dashboard](https://github.com/venkata-kopparthi/ridership-dashboard)**: bike-share analytics dashboard with a FastAPI + SQLite API and a React/TypeScript front end
 - **[shortlink-api](https://github.com/venkata-kopparthi/shortlink-api)**: link shortener REST API with click analytics, built with Node.js, Express and TypeScript
 - **[taskflow](https://github.com/venkata-kopparthi/taskflow)**: full-stack task manager with React, Express, MongoDB and JWT auth
+- **[react-ui-kit](https://github.com/venkata-kopparthi/react-ui-kit)**: accessible React components (Button, TextField, Dialog, Tabs) with Storybook and axe-core tests
+- **[claude-review](https://github.com/venkata-kopparthi/claude-review)**: Python CLI that reviews staged git changes with Claude before you push
 
 ### 🔗 Find me
 
